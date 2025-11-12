@@ -10,3 +10,26 @@ p{
 #ab{
     color: rgb(35, 145, 189);
 }
+/* div{
+    height: 200px;
+    width: 200px;
+    color: rgb(223, 32, 112);
+    background-color: rgba(42, 16, 138, 0.616);
+    text-align: center;
+    align-content: center;
+    padding: 10px;
+    margin: 100px;
+    border: 1px solid brown; */
+
+
+h3{
+    color: blueviolet;
+    text-align: center;
+}
+#ss{
+    color: brown;
+}
+div{
+    margin: 2px;
+    border: 5px solid black;
+}
